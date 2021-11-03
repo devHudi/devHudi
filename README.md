@@ -2,7 +2,7 @@
 
 I'm a student studying at Inha Univ. I study to become a better programmer than yesterday. Also I love to share my experiences and knowledge with others.
 
-My dream is to develop services that can make a **HUGE** difference in people's lifestyles.
+My dream is to develop services that can make a **HUGE** change in people's lifestyles.
 
 ### My Tech Stacks ‍💻
 
