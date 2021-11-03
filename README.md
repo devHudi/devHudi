@@ -1,8 +1,8 @@
 ## Hello, I'm Donghyun Cho <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I'm a student studying at Inha Univ. I study to become a better programmer than yesterday. I want to develop services that will make a huge difference in people's lifestyles.
+I'm a student studying at Inha Univ. I study to become a better programmer than yesterday. Also I love to share my experiences and knowledge with others.
 
-Also I love to share my experiences and knowledge with others.
+My dream is to develop services that can make a **HUGE** difference in people's lifestyles.
 
 ### My Tech Stacks ‍💻
 
