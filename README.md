@@ -1,6 +1,6 @@
 ## Hello, I'm Donghyun Cho <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-I'm a student studying at Inha Univ.
+I'm a student studying at Inha University College of Engineering.
 
 I study to become a better programmer than yesterday. Also I love to share my experiences and knowledge with others.
 
