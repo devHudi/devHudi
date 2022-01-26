@@ -39,8 +39,10 @@ I study to become a better software engineer than yesterday. And I love to share
 
 ## 🏢 I Belong To
 
-- Inha University College of Engineering `2017.03.02 ~`
-- Woowacourse `2022.02.08 ~`
+- **Korea Digital Media High School 13th** (2014 ~ 2016)
+- **Inha University College of Engineering** (2017 ~ )
+- **Likelion 9th** (2021.03 ~ 2021.11)
+- **Woowacourse** (2022.02 ~ )
 
 ## 🔗 Find Me Elsewhere 
 
@@ -50,4 +52,5 @@ I study to become a better software engineer than yesterday. And I love to share
   - **[[국민일보] 인하대 후문가 음식점을 한 눈에 ‘인후라이프 개발’ 룰렛을 돌려 점심 메뉴 선택](http://news.kmib.co.kr/article/view.asp?arcid=0012267786&code=61121411&cp=nv)** 외 3언론사에 보도
   - [**[인하프레스] “새로운 시대의 흐름을 만들고 싶어요” 인후라이프 개발자, 조동현 학우를 만나다**](http://www.inhapress.com/news/articleView.html?idxno=7721)
 
+<br/>
 ↓ Take a look at my projects.
