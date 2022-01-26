@@ -42,7 +42,7 @@ I study to become a better software engineer than yesterday. And I love to share
 - **Korea Digital Media High School 13th** (2014 ~ 2016)
 - **Inha University College of Engineering** (2017 ~ )
 - **Likelion 9th** (2021.03 ~ 2021.11)
-- **Woowacourse** (2022.02 ~ )
+- **Woowacourse 4th (Backend)** (2022.02 ~ )
 
 ## 🔗 Find Me Elsewhere 
 
