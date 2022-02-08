@@ -29,6 +29,7 @@ I study to become a better software engineer than yesterday. And I love to share
 ![Jenkins](https://img.shields.io/badge/jenkins-%2320232a.svg?style=flat-square&logo=Jenkins&logoColor=#ffffff)
 ![Socket.io](https://img.shields.io/badge/Socket.io-%2320232a?style=flat-square&logo=socket.io&badgeColor=010101)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=#61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-%2320232a.svg?style=flat-square&logo=flutter&logoColor=62AEEA)
 ![Svelte](https://img.shields.io/badge/Svelte-%2320232a.svg?style=flat-square&logo=svelte&logoColor=#FF3E00)
 ![RxJS](https://img.shields.io/badge/Rxjs-%2320232a.svg?style=flat-square&logo=reactivex&logoColor=E0098A)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-%2320232a?style=flat-square&logo=graphql&logoColor=E10098)
