@@ -15,10 +15,7 @@ I study to become a better software engineer than yesterday. And I love to share
 ## 🧐 What I'm Focusing On 
 
 ![Typescript](https://img.shields.io/badge/Typescript-%2320232a.svg?style=flat-square&logo=typescript&logoColor=#3178C6)
-![Nest.js](https://img.shields.io/badge/NestJS-%2320232a.svg?style=flat-square&logo=nestjs&logoColor=E0234E)
 ![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=flat-square&logo=java&logoColor=6DB33F)
-![Docker](https://img.shields.io/badge/Docker-%2320232a.svg?style=flat-square&logo=docker&logoColor=#2496ED)
-![AWS](https://img.shields.io/badge/AWS-%2320232a.svg?style=flat-square&logo=amazon-aws&logoColor=FF7800)
 
 ## 👨‍💻 What I'm Interested In
 
@@ -28,6 +25,9 @@ I study to become a better software engineer than yesterday. And I love to share
 ![Redis](https://img.shields.io/badge/Redis-%2320232a.svg?style=flat-square&logo=redis&logoColor=DD0031)
 ![Jenkins](https://img.shields.io/badge/jenkins-%2320232a.svg?style=flat-square&logo=Jenkins&logoColor=#ffffff)
 ![Socket.io](https://img.shields.io/badge/Socket.io-%2320232a?style=flat-square&logo=socket.io&badgeColor=010101)
+![Nest.js](https://img.shields.io/badge/NestJS-%2320232a.svg?style=flat-square&logo=nestjs&logoColor=E0234E)
+![Docker](https://img.shields.io/badge/Docker-%2320232a.svg?style=flat-square&logo=docker&logoColor=#2496ED)
+![AWS](https://img.shields.io/badge/AWS-%2320232a.svg?style=flat-square&logo=amazon-aws&logoColor=FF7800)
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=#61DAFB)
 ![Flutter](https://img.shields.io/badge/Flutter-%2320232a.svg?style=flat-square&logo=flutter&logoColor=62AEEA)
 ![Svelte](https://img.shields.io/badge/Svelte-%2320232a.svg?style=flat-square&logo=svelte&logoColor=#FF3E00)
