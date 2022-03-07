@@ -20,7 +20,7 @@
 ![Clean Code](https://img.shields.io/badge/Clean_Code-%2320232a.svg?style=flat-square&logo=Textpattern&logoColor=FFFFFF)
 ![TDD](https://img.shields.io/badge/Test_Driven_Development-%2320232a.svg?style=flat-square&logo=FutureLearn&logoColor=FFFFFF)
 
-## 👨‍💻 관심있는 것
+## 👨‍💻 배우고 싶은 것
 
 ![Go](https://img.shields.io/badge/Go-%2320232a.svg?style=flat-square&logo=go&logoColor=#27B4A7)
 ![Spring](https://img.shields.io/badge/Spring-%2320232a.svg?style=flat-square&logo=spring&logoColor=#6DB33F)
