@@ -20,28 +20,6 @@
 ![Clean Code](https://img.shields.io/badge/Clean_Code-%2320232a.svg?style=flat-square&logo=Textpattern&logoColor=FFFFFF)
 ![TDD](https://img.shields.io/badge/Test_Driven_Development-%2320232a.svg?style=flat-square&logo=FutureLearn&logoColor=FFFFFF)
 
-## 👨‍💻 배우고 싶은 것
-
-![Go](https://img.shields.io/badge/Go-%2320232a.svg?style=flat-square&logo=go&logoColor=#27B4A7)
-![Spring](https://img.shields.io/badge/Spring-%2320232a.svg?style=flat-square&logo=spring&logoColor=#6DB33F)
-![Postgres](https://img.shields.io/badge/PostgreSQL-%2320232a.svg?style=flat-square&logo=postgresql&logoColor=#4169E1)
-![Redis](https://img.shields.io/badge/Redis-%2320232a.svg?style=flat-square&logo=redis&logoColor=DD0031)
-![Jenkins](https://img.shields.io/badge/jenkins-%2320232a.svg?style=flat-square&logo=Jenkins&logoColor=#ffffff)
-![Socket.io](https://img.shields.io/badge/Socket.io-%2320232a?style=flat-square&logo=socket.io&badgeColor=010101)
-![Typescript](https://img.shields.io/badge/Typescript-%2320232a.svg?style=flat-square&logo=typescript&logoColor=#3178C6)
-![Nest.js](https://img.shields.io/badge/NestJS-%2320232a.svg?style=flat-square&logo=nestjs&logoColor=E0234E)
-![Docker](https://img.shields.io/badge/Docker-%2320232a.svg?style=flat-square&logo=docker&logoColor=#2496ED)
-![AWS](https://img.shields.io/badge/AWS-%2320232a.svg?style=flat-square&logo=amazon-aws&logoColor=FF7800)
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=#61DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2320232a.svg?style=flat-square&logo=flutter&logoColor=62AEEA)
-![Svelte](https://img.shields.io/badge/Svelte-%2320232a.svg?style=flat-square&logo=svelte&logoColor=#FF3E00)
-![RxJS](https://img.shields.io/badge/Rxjs-%2320232a.svg?style=flat-square&logo=reactivex&logoColor=E0098A)
-![GraphQL](https://img.shields.io/badge/-GraphQL-%2320232a?style=flat-square&logo=graphql&logoColor=E10098)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-%2320232a.svg?style=flat-square&logo=kubernetes&logoColor=#326CE5)
-![ELK Stack](https://img.shields.io/badge/-ELK%20Stack-%2320232a?style=flat-square&logo=elasticsearch&logoColor=005571)
-![Blockchain](https://img.shields.io/badge/Blockchain-%2320232a?style=flat-square&logo=Ethereum&logoColor=#ffffff)
-![Deeplearning](https://img.shields.io/badge/Deeplearning-%2320232a.svg?style=flat-square&logo=TensorFlow&logoColor=#FF6F00)
-
 ## 🏢 소속
 
 - **한국디지털미디어고등학교 13기** (2014 ~ 2016)
