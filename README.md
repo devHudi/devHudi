@@ -4,6 +4,7 @@
 
 ## 💻 기술 스택
 
+![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=flat-square&logo=java&logoColor=E01E23)
 ![JavaScript](https://img.shields.io/badge/Javascript-%2320232a.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=#61DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-%2320232a?style=flat-square&logo=node.js&logoColor=#339933)
@@ -14,7 +15,6 @@
 
 ## 🧐 집중하고 있는 것
 
-![Java](https://img.shields.io/badge/Java-%2320232a.svg?style=flat-square&logo=java&logoColor=E01E23)
 ![Spring](https://img.shields.io/badge/Spring-%2320232a.svg?style=flat-square&logo=spring&logoColor=6AAD3D)
 ![OOP](https://img.shields.io/badge/Object_Oriented_Programming-%2320232a.svg?style=flat-square&logo=SlickPic&logoColor=FFFFFF)
 ![Design Pattern](https://img.shields.io/badge/Design_Pattern-%2320232a.svg?style=flat-square&logo=SlickPic&logoColor=FFFFFF)
