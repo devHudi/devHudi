@@ -1,4 +1,4 @@
-# 안녕하세요, 조동현입니다 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+# 안녕하세요, 조동현입니다
 
 어제보다 더 나은 프로그래머가 되기 위해 항상 공부하고 있습니다. 제 경험과 지식을 공유하는 것을 좋아합니다.
 
