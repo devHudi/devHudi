@@ -12,7 +12,6 @@
 ## 🔗 더 알아보기
 
 - **이메일** : devhudi@gmail.com
-- **이력서** : [Notion Page](https://devhudi.notion.site/Donghyun-Cho-s-R-sum-0c1d1a1b35284d1eaf05c5bfac4a3cad)
 - **블로그** : https://hudi.blog
 - **보도자료**
   - **[[국민일보] 인하대 후문가 음식점을 한 눈에 ‘인후라이프 개발’ 룰렛을 돌려 점심 메뉴 선택](http://news.kmib.co.kr/article/view.asp?arcid=0012267786&code=61121411&cp=nv)** 외 3언론사에 보도
